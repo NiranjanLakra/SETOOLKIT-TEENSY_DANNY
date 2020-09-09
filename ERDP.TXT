@@ -1,0 +1,1 @@
+reg add "HKLM\System\CurrentControlSet\Control\Terminal Server" /v fDenyTSConnections /t REG_DWORD /d 0 /f && reg add "HKLM\System\CurrentControlSet\Services\TermService" /v Start /t REG_DWORD /d 2 /f && sc start termservice & netsh firewall set service type = remotedesktop mode = enable

