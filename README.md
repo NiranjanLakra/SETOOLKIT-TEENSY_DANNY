@@ -16,3 +16,11 @@ Features :-
 Note :- The code for menu is by no means sleek, hence any contribution is much appreciated :)
 
 Cheers to Open SOURCE Community :)
+
+ Markup : *you can save all your powershell or cmd scripts in SD card as a text file and deply using teensy
+          *few sample script files(.txt) have been uploaded
+          *light weight Menu UI for OLED 128 x 64 (no dynamic screen scaling)
+          *custom push buttons grid (6x3)
+          *spikes Adrenaline of Harware + software geek
+          *and Much more.... (being lazy here)
+          
