@@ -17,3 +17,7 @@ Cheers to Open SOURCE Community :)
 * and Much more.... (being lazy here)
 
 Note :- The code for menu is by no means sleek, hence any contribution is much appreciated :)
+
+### Schematic
+
+![alt text](https://github.com/NiranjanLakra/SETOOLKIT-TEENSY_DANNY/blob/master/DIAGRAM.png)
